@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modified again from local project !");
+        System.out.println("Modified poll SCM for Jenkins from local project !");
     }
 
     public String getMessage() {
